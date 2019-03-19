@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: chapters/cover.aux
+A level-1 auxiliary file: chapters/contents.aux
+A level-1 auxiliary file: chapters/chap1.aux
+A level-1 auxiliary file: chapters/appa.aux
+A level-1 auxiliary file: chapters/appb.aux
+The style file: plain.bst
+Database file #1: main.bib.bib
+Warning--empty journal in einstein
+You've used 3 entries,
+            2118 wiz_defined-function locations,
+            517 strings with 4498 characters,
+and the built_in function-call counts, 784 in all, are:
+= -- 69
+> -- 44
+< -- 0
++ -- 19
+- -- 14
+* -- 44
+:= -- 148
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 14
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 32
+empty$ -- 57
+format.name$ -- 14
+if$ -- 154
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 4
+newline$ -- 18
+num.names$ -- 6
+pop$ -- 21
+preamble$ -- 1
+purify$ -- 12
+quote$ -- 0
+skip$ -- 23
+stack$ -- 0
+substring$ -- 17
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 10
+warning$ -- 1
+while$ -- 6
+width$ -- 4
+write$ -- 31
+(There was 1 warning)
