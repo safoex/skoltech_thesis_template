@@ -10,6 +10,11 @@ To add fonts, please, open Skoltech telegram chat and find a link to "fonts.zip"
 
 ## How should I compile the files? 
 I tested it with texlive under Ubuntu (18.04). Use XeLaTeX (+ BibTex) option. 
+
+## I love to work online!
+That's fine, we respect it. Upload the project from GitHub to your Overleaf account, open it, add a folder "fonts" as it is written here, and in the Menu of Overleaf change the type of Compiler to "XeLaTeX". Thanks to tg:baibakovaVika 
+
 Recipes for other toolchains are highly welcomed! write tg:safoex.
+
 
 
